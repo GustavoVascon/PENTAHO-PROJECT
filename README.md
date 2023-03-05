@@ -4,7 +4,7 @@
 
 ## <h3>Do que se trata o projeto?<h3/>
 
-<p>Utilização do Pentaho para o tratamento de dados(ETL), automação através do arquivo .bat e criação de um Data Warehouse.<p/>
+<p>Utilização do Pentaho para o tratamento de dados(ETL), automação através do arquivo .bat e criação do Data Warehouse.<p/>
 
 ## <h3>Motivo de seu Desenvolvimento<h3/>
 
@@ -15,8 +15,15 @@ e sua automação.<p/>
 
 <h3>O Projeto<h3/>
 
-<p>Como visto na primeira imagem, o banco de dados base se encontra no SQL SERVER.
-Foi desenvolvido uma conexão do Pentaho com SQL SERVER para a extração(E) de seus dados e alocação para a STAGE.
+<p>Como visto na primeira imagem, o banco de dados base se encontra no SQL Server.
+Foi desenvolvido uma conexão do Pentaho com SQL SERVER para a extração(E) de seus dados e alocação para o Stage alocado no PostgreSQL.
 <p/>
 
-![banco sql server](https://user-images.githubusercontent.com/92761995/222938515-8fa5b668-832b-4a60-ba51-cda766d4db11.png)
+![sql server - pentaho conexao](https://user-images.githubusercontent.com/92761995/222992364-02f02c6b-b80e-4aa4-a4f5-9f594e4fa516.png)
+
+##
+
+<h3>DER Data Warehouse<h3/>
+
+
+![DATA WAREHOUSE - DIAGRAMA](https://user-images.githubusercontent.com/92761995/222993007-eb79e4f5-1aa7-4c1d-bb8c-e28ed8e21a89.png)
