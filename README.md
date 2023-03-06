@@ -4,7 +4,7 @@
 
 ## <h3>Do que se trata o projeto?<h3/>
 
-<p>Utilização do Pentaho para o tratamento de dados(ETL), automação através do arquivo .bat e criação do Data Warehouse.<p/>
+<p>Utilização do Pentaho(transformações, jobs e suas demais ferramentas) para o tratamento de dados(ETL), automação através do arquivo .bat e criação do Data Warehouse.<p/>
 
 ## <h3>Motivo de seu Desenvolvimento<h3/>
 
@@ -43,9 +43,32 @@ Análise de vendas por Região. <br/>
 Análise de vendas por Produto. <br/>
 Armazenar o histórico de produtos com a categoria e subcategoria. <br/>
 Análise de compra por Cliente. <br/>
-Nome completo do cliente (PrimeiroNome + ÚltimoNome) <br/>
+Nome completo do cliente (Primeiro Nome + Último Nome) <br/>
 Análise ao longo do Tempo. <br/>
 Dia, semana, mês, trimestre, semestre, ano... <br/>
+
+<h3>Dimensão Cliente<h3/>
+
+![Captura de tela 2023-03-05 211334](https://user-images.githubusercontent.com/92761995/222996612-a6abaab0-5d3a-4c11-98d4-2820876a22ce.png)
+
+<h3>Dimensão Produto<h3/>
+
+![Captura de tela 2023-03-05 211300](https://user-images.githubusercontent.com/92761995/222996639-b3231f4a-5980-4b77-8a3b-35eda9f67ba5.png)
+
+<h3>Dimensão Tempo<h3/>
+
+![Captura de tela 2023-03-05 211418](https://user-images.githubusercontent.com/92761995/222997812-5b864d21-211c-4b87-be3f-0345557ec34f.png)
   
+##  
+
+<h3>Fato<h3/>
+
+![Captura de tela 2023-03-05 211440](https://user-images.githubusercontent.com/92761995/222997841-d1cded3a-f686-4657-9177-1182f9fcac0f.png)
 
 ##  
+
+<h3>Data Warehouse PostgreSQL<h3/>
+
+![Captura de tela 2023-03-05 221233](https://user-images.githubusercontent.com/92761995/222998171-863d89d7-e494-4035-8b9e-644edcb61a0d.png)
+
+
