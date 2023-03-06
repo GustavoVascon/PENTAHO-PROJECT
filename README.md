@@ -53,6 +53,8 @@ Nome completo do cliente (Primeiro Nome + Último Nome) <br/>
 Análise ao longo do Tempo. <br/>
 Dia, semana, mês, trimestre, semestre, ano... <br/>
 
+##
+
 <h3>Dimensão Data Warehosue e Fato<h3/>
 
 https://user-images.githubusercontent.com/92761995/223010686-cda6c62e-66d8-48ee-843f-6f2235a89230.mp4
